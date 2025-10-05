@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ollama": "^0.6.0",
     "ws": "^8.18.3"
   }
 }
